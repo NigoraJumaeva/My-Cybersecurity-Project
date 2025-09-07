@@ -1,0 +1,15 @@
+# User data created by the C++ demo (never commit real users)
+Secure-Login-System-Cpp/users.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+venv/
+env/
+
+# VSCode settings (optional)
+.vscode/
