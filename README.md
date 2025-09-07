@@ -1,13 +1,8 @@
-# Data Encryption Tool (Python)
+# Network Port Scanner (Python)
 
-Educational examples of:
-- **Caesar Cipher** (toy example)
-- **Fernet** symmetric encryption using the `cryptography` library
+Simple socket-based scanner for basic ports.
 
 ## Run
 ```bash
-# Optional dependency for Fernet
-pip install cryptography
-
-python encryption.py
+python portscanner.py
 ```
